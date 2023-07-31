@@ -3,12 +3,17 @@ The consolidation of the majority of my utilities into a single repository serve
 
 
 
-# Table of Contents
+# Table of Contents:
 I- Introduction
+
 II- Features
+
 III- Installation
+
 IV- Usage
+
 V- Documentation
+
 VI- Examples
 
 
@@ -30,14 +35,15 @@ To get started with  Kernel Library , follow the steps below:
 
 
 # Step 1: Clone the repository
-git clone https://github.com/XZNX5/Kernel-Library/
+**git clone** https://github.com/XZNX5/Kernel-Library/
 
 # Step 2: Enter the library directory
-|cd your-kernel-library|
+**cd your-kernel-library**
 
 # Step 3: Build and install the library
-|make
-sudo make install|
+**make**
+
+**sudo make install**
 
 # Usage
 To include  Kernel Library  in your kernel development project, simply add the necessary include statement to your source file.
