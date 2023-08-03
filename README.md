@@ -3,7 +3,7 @@ The consolidation of the majority of my utilities into a single repository serve
 
 
 
-# *Disclamer
+# *Legal Disclaimer
 ***The use of this project is the sole responsibility of the user. I am not responsible for any consequences arising from the use of this tool.***
 
 
