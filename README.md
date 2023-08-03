@@ -10,17 +10,14 @@ The consolidation of the majority of my utilities into a single repository serve
 
 
 # Table of Contents:
-I- Introduction
 
-II- Features
+ ###### I- Introduction
 
-III- Installation
+ ###### II- Features
 
-IV- Usage
+ ###### III- Documentation
 
-V- Documentation
-
-VI- Examples
+ ###### IV- Examples
 
 
 # Introduction
@@ -31,30 +28,10 @@ With Your Kernel Library , you can confidently accelerate your kernel developmen
 ![screenshot1](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kernel_Layout.svg/1200px-Kernel_Layout.svg.png)
 
 # Features:
-I- most of my utilities gathered in one repo to ease kernel development 
+ ###### I- most of my utilities gathered in one repo to ease kernel development 
 
-II- Kernel Library  comes packed with an array of features to facilitate kernel development. Whether you're a seasoned kernel developer or just starting in this field, you'll find immense value in the capabilities of this library.
+ ###### II- Kernel Library  comes packed with an array of features to facilitate kernel development. Whether you're a seasoned kernel developer or just starting in this field, you'll find immense value in the capabilities of this library.
 
-# Installation
-To get started with  Kernel Library , follow the steps below:
-
-
-
-# Step 1: Clone the repository
-**git clone** https://github.com/XZNX5/Kernel-Library/
-
-# Step 2: Enter the library directory
-**cd your-kernel-library**
-
-# Step 3: Build and install the library
-**make**
-
-**sudo make install**
-
-# Usage
-To include  Kernel Library  in your kernel development project, simply add the necessary include statement to your source file.
-
-Now, you can leverage the library's functionalities to enhance and optimize your kernel development process. Refer to the comprehensive documentation for detailed usage instructions.
 
 
 # Documentation
@@ -69,4 +46,4 @@ To help you kickstart your journey with Kernel Library , we have included some p
 
 
 
-© 2023 ! XZNX 5. All rights reserved.
+**© 2023 ! XZNX 5. All rights reserved.**
